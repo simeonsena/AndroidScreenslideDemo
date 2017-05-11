@@ -1,0 +1,7 @@
+#Mon May 08 15:49:35 EDT 2017
+base.0=C\:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_194b3d33a93351ce7b1bdc502930be39db30350e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1d74ab8478c33c8fea5ac8fb87b6c07362fe4aa1\\classes.dex
+base.1=C\:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1d74ab8478c33c8fea5ac8fb87b6c07362fe4aa1
+file.0=C\:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_194b3d33a93351ce7b1bdc502930be39db30350e\\classes.dex

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simeon Sena\AndroidStudioProjects\AnimationsDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75e9e40097689c44bc36e9e4607f84780770586b">
+        <dex dex="C:\Users\Simeon Sena\AndroidStudioProjects\AnimationsDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_194b3d33a93351ce7b1bdc502930be39db30350e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simeon Sena\AndroidStudioProjects\AnimationsDemo\app\libs\android-support-v13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a0cf96dabecd7b65a3638a229e7bdb42e6b0a77">
+        <dex dex="C:\Users\Simeon Sena\AndroidStudioProjects\AnimationsDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v13_0904a00e95739aec9a1a5213b7eb21ab747d72ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simeon Sena\AndroidStudioProjects\AnimationsDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Simeon Sena\AndroidStudioProjects\AnimationsDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1d74ab8478c33c8fea5ac8fb87b6c07362fe4aa1\classes.dex" />
+    </item>
+
+</items>

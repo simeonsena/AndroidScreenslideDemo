@@ -1,0 +1,352 @@
+[
+    {
+        "outputFile": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 40,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 40,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 53,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\integers.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 53,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\integers.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 52,
+                    "endOffset": 343
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 348,
+                    "endColumn": 48,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 50,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 44,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endColumn": 51,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 52,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 58,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 58,
+                    "endOffset": 711
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 716,
+                    "endColumn": 47,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 60,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1991,
+                        "endColumn": 72,
+                        "endOffset": 2059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 61,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 55,
+                    "endOffset": 938
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 943,
+                    "endColumn": 55,
+                    "endOffset": 994
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 999,
+                    "endColumn": 88,
+                    "endOffset": 1083
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1088,
+                    "endColumn": 59,
+                    "endOffset": 1143
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1148,
+                    "endColumn": 60,
+                    "endOffset": 1204
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1209,
+                    "endColumn": 90,
+                    "endOffset": 1295
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1300,
+                    "endColumn": 81,
+                    "endOffset": 1377
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1382,
+                    "endColumn": 63,
+                    "endOffset": 1441
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1446,
+                    "endColumn": 59,
+                    "endOffset": 1501
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1506,
+                    "endColumn": 101,
+                    "endOffset": 1603
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1608,
+                    "endColumn": 43,
+                    "endOffset": 1647
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1652,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1806
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1811,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1948
+                },
+                "from": {
+                    "file": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

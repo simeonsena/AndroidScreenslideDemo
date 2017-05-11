@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\excerpt_content.xml",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\layout\\excerpt_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_crossfade.xml",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\layout\\activity_crossfade.xml"
+    },
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_layout_changes.xml",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\layout\\activity_layout_changes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card_front.xml",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\layout\\fragment_card_front.xml"
+    },
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_screen_slide_page.xml",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\layout\\fragment_screen_slide_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_example.xml",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\layout\\list_item_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_screen_slide.xml",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\layout\\activity_screen_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card_back.xml",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\layout\\fragment_card_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_card_flip.xml",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\layout\\activity_card_flip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zoom.xml",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\layout\\activity_zoom.xml"
+    }
+]

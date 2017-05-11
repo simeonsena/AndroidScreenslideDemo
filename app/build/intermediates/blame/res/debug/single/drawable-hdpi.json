@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_new.png",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_list_remove.png",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_list_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_photo.png",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_action_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_info.png",
+        "source": "C:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_action_info.png"
+    }
+]
