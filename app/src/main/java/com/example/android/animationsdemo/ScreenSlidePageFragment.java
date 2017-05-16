@@ -94,19 +94,50 @@ public class ScreenSlidePageFragment extends Fragment {
         }
         return location;
     }
+    public String getBodyText(int page) {
+
+        String bodyText = "Oakley Text";
+        switch (page) {
+            case 1:
+                bodyText = "Florence+Text";
+                break;
+            case 2:
+                bodyText = "Mason text";
+                break;
+            case 3:
+                bodyText = "OxfordText";
+                break;
+            case 4:
+                bodyText = "UptownTestt";
+                break;
+            case 5:
+                bodyText = "West Sidetesst";
+                break;
+            case 6:
+                bodyText = "AndoverTesttt";
+                break;
+            case 7:
+                bodyText = "GeorgetownTeest";
+                break;
+            case 8:
+                bodyText = "RichmondTttesst";
+                break;
 
 
+        }
+        return bodyText;
+    }
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState) {
         // Inflate the layout containing a title and body text.
         ViewGroup rootView = (ViewGroup) inflater
                 .inflate(R.layout.fragment_screen_slide_page, container, false);
-//string mytext = "simeon";
         // Set the title view to show the page number.
         ((TextView) rootView.findViewById(android.R.id.text1)).setText(
                 getTestText(mPageNumber)); //  getString(R.string.title_template_step, mPageNumber + 1));
-
+        ((TextView) rootView.findViewById(android.R.id.text2)).setText(
+                getBodyText(mPageNumber));
         return rootView;
     }
 

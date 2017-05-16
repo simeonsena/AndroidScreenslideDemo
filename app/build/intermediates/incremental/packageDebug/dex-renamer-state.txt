@@ -1,4 +1,4 @@
-#Mon May 08 15:49:35 EDT 2017
+#Tue May 16 08:49:11 EDT 2017
 base.0=C\:\\Users\\Simeon Sena\\AndroidStudioProjects\\AnimationsDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_194b3d33a93351ce7b1bdc502930be39db30350e
 renamed.1=classes2.dex
 renamed.0=classes.dex

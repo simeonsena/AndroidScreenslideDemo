@@ -83,13 +83,12 @@ public final class R {
         public static final int description_image_2=0x7f08000c;
         public static final int description_zoom_touch_close=0x7f08000d;
         public static final int lorem_ipsum=0x7f08000e;
-        public static final int lorem_ipsum2=0x7f08000f;
-        public static final int message_empty_layout_changes=0x7f080010;
-        public static final int message_zoom_touch_expand=0x7f080011;
-        public static final int title_layout_changes=0x7f080012;
-        public static final int title_screen_slide=0x7f080013;
-        public static final int title_template_step=0x7f080014;
-        public static final int title_zoom=0x7f080015;
+        public static final int message_empty_layout_changes=0x7f08000f;
+        public static final int message_zoom_touch_expand=0x7f080010;
+        public static final int title_layout_changes=0x7f080011;
+        public static final int title_screen_slide=0x7f080012;
+        public static final int title_template_step=0x7f080013;
+        public static final int title_zoom=0x7f080014;
     }
     public static final class style {
         public static final int DarkActionBar=0x7f090000;
